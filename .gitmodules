@@ -8,3 +8,9 @@
 [submodule "themes/coder"]
 	path = themes/coder
 	url = https://github.com/luizdepra/hugo-coder.git
+[submodule "themes/tranquilpeak"]
+	path = themes/tranquilpeak
+	url = https://github.com/kakawait/hugo-tranquilpeak-theme.git
+[submodule "themes/mainroad"]
+	path = themes/mainroad
+	url = https://github.com/Vimux/mainroad.git
